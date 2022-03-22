@@ -279,3 +279,16 @@ padding-left:20%;
     border:2px solid white;
     
 }
+
+.footer {
+    background-color:#1F2937;
+    height:80px;
+    color:white;
+}
+
+.footer-text {
+    display: flex;
+    justify-content:center;
+    align-items:center;
+    height:100%;
+}
